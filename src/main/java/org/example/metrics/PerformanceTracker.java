@@ -1,6 +1,6 @@
 package org.example.metrics;
 
-public class PerfomanceTracker {
+public class PerformanceTracker {
     public static int comparisons=0;
     public static int arrayAccess=0;
 
