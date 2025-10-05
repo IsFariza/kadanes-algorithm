@@ -82,3 +82,4 @@ Fully tested and validates through empirical data.
 Kadane’s algorithm is optimal for maximum subarray problem both in theory and practice.  
 
   
+Link to Peer analysis Report (Boyer-Moore): https://github.com/IsFariza/kadanes-algorithm/blob/main/docs/Peer%20analysis%20Report%20(Boyer-Moore).pdf
